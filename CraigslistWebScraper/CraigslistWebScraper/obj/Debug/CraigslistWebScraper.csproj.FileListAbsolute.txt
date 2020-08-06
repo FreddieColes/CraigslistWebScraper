@@ -1,0 +1,7 @@
+C:\Users\Fred's Machine\source\repos\CraigslistWebScraper\CraigslistWebScraper\bin\Debug\CraigslistWebScraper.exe.config
+C:\Users\Fred's Machine\source\repos\CraigslistWebScraper\CraigslistWebScraper\bin\Debug\CraigslistWebScraper.exe
+C:\Users\Fred's Machine\source\repos\CraigslistWebScraper\CraigslistWebScraper\bin\Debug\CraigslistWebScraper.pdb
+C:\Users\Fred's Machine\source\repos\CraigslistWebScraper\CraigslistWebScraper\obj\Debug\CraigslistWebScraper.csprojAssemblyReference.cache
+C:\Users\Fred's Machine\source\repos\CraigslistWebScraper\CraigslistWebScraper\obj\Debug\CraigslistWebScraper.csproj.CoreCompileInputs.cache
+C:\Users\Fred's Machine\source\repos\CraigslistWebScraper\CraigslistWebScraper\obj\Debug\CraigslistWebScraper.exe
+C:\Users\Fred's Machine\source\repos\CraigslistWebScraper\CraigslistWebScraper\obj\Debug\CraigslistWebScraper.pdb
